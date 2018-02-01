@@ -23,6 +23,6 @@ If there are any issues, consult: http://control.ee.ethz.ch/~mpt/3/Main/Installa
 If the system is robustly safe, 'safeFlag=1' and the 'reachtube' will have length(T) elements corresponding with the timestamps in 'T'. Otherwise, 'safeFlag=0' and 'reachtube' will be an empty object.
 
 4. Reachtube results can be plotted as follows:
-* A single dimension (i) vs time: 'plotReachVsTime(reachtube,i,T)'
-* Two dimensions (i,j): 'plotReachVsTime(reachtube,[i,j],T)'
-* Two dimensions (i,j): 'plot(reachtube.projection([i,j]))'
+    * A single dimension (i) vs time: 'plotReachVsTime(reachtube,i,T)'
+    * Two dimensions (i,j): 'plotReachVsTime(reachtube,[i,j],T)'
+    * Two dimensions (i,j): 'plot(reachtube.projection([i,j]))'
