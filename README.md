@@ -13,7 +13,7 @@
 If there are any issues, consult: http://control.ee.ethz.ch/~mpt/3/Main/Installation
 2. Check MPT options by typing ```mpt_opt```. If they are different from what I have used here, then set up your default options by following the [instructions here](http://control.ee.ethz.ch/~mpt/3/Main/FAQ).
 
-![alt text]()
+![alt text](https://bytebucket.org/nchan2/codev/raw/6cdcd30ccebbeca3f19b94fe0bdbc503423c671c/MPT3_mptopt.png)
 
 
 ##To run the CODEV tool:
